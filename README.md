@@ -49,15 +49,6 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-### 5. Verify Installation
-
-```bash
-# Run tests to verify everything works
-python -m pytest tests/ -v
-
-# Should show: ====== 97 passed in X.XXs ======
-```
-
 
 ### Web GUI
 
