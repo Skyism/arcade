@@ -10,6 +10,10 @@ A Python implementation of a transactional key-value store with support for nest
 
 ### 1. Clone or Download the Project
 
+```bash
+# Clone the repository
+git clone https://github.com/Skyism/arcade.git
+cd arcade
 
 # Or download and extract the project files to a directory
 ```
